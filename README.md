@@ -99,7 +99,7 @@ https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 A detailed data dictionary is available in the project files:
 
-[Data Dictionary](docs/data_dictionary.xlsx)
+📄 [Data Dictionary](docs/data_dictionary.xlsx)
 
 ---
 
