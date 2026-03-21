@@ -86,7 +86,10 @@ The project follows a simple end-to-end workflow:
 ---
 
 ## Dataset
-
+- 9,800 records (transactions)  
+- 18 variables covering sales, customers, products, and geography  
+- Mix of numerical, categorical, and date features
+  
 Dataset source:  
 https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
