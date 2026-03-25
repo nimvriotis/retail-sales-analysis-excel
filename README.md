@@ -46,7 +46,7 @@ The goal of this project is to turn raw sales data into a clear and interactive 
 
 ## Project Workflow
 
-![Workflow ](images/workflow.png)
+![Workflow_4_stages](images/workflow_4_stages.png)
 
 The project follows a simple end-to-end workflow:
 
